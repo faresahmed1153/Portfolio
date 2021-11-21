@@ -148,11 +148,11 @@ a:hover {
 .img-layer a {
   color: #fff;
 }
-.details {
+.details1 {
   width: 50%;
 }
 
-.details h2 {
+.details1 h2 {
   font-size: 34px;
   font-weight: 600;
   margin-bottom: 25px;
@@ -615,11 +615,12 @@ input {
   }
 
   /* section 2*/
+
   .about-img {
     width: 35%;
     margin-right: 40px;
   }
-  .details {
+  .details1 {
     width: 60%;
   }
 
@@ -719,7 +720,7 @@ input {
     width: 50%;
     margin-bottom: 40px;
   }
-  .details {
+  .details1 {
     width: 70%;
   }
 
@@ -805,7 +806,7 @@ input {
     width: 75%;
     margin-bottom: 40px;
   }
-  .details {
+  .details1 {
     width: 100%;
   }
   .data {
